@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+temp_files/
+answers_backup.json
+.env
+.DS_Store

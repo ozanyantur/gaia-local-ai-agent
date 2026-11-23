@@ -1,0 +1,8 @@
+smolagents[litellm,toolkit]
+requests
+pymupdf
+pandas
+openpyxl
+wikipedia
+faster-whisper
+youtube-transcript-api
